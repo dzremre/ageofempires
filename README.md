@@ -6,6 +6,7 @@
 
 - [Civilizations](#civilizations)
 - [Build Orders](#build-orders)
+- [Release History](#release-history)
 
 ## Civilizations
 
@@ -817,7 +818,7 @@
         - Weak: -
 - **Team Bonus**: Docks cost -15%
 
-## Build Orders
+## Build Orders
 
 ### Fast Castle → Boom
 
@@ -837,3 +838,32 @@
 | Double-Bit Axe + Horse Collar       | 10 | 21 | 3  | 0  |
 | Castle Age                          | 10 | 21 | 3  | 0  |
 | 8 from wood → 2 Town Center → wood  | 10 | 21 | 3  | 0  |
+
+## Release History
+
+- **1997** - Age of Empires
+- **1998** - Age of Empires: The Rise of Rome
+- **1999** - Age of Empires II: The Age of Kings
+- **2000** - Age of Empires II: The Conquerors
+- **2002** - Age of Mythology
+- **2003** - Age of Mythology: The Titans
+- **2005** - Age of Empires III
+- **2006** - Age of Empires III: The WarChiefs
+- **2007** - Age of Empires III: The Asian Dynasties
+- **2013** - Age of Empires II: HD Edition
+- **2013** - Age of Empires II: The Forgotten
+- **2014** - Age of Mythology: Extended Edition
+- **2015** - Age of Empires II: The African Kingdoms
+- **2016** - Age of Mythology: Tale of the Dragon
+- **2016** - Age of Empires II: Rise of the Rajas
+- **2018** - Age of Empires: Definitive Edition
+- **2019** - Age of Empires II: Definitive Edition
+- **2020** - Age of Empires III: Definitive Edition
+- **2021** - Age of Empires II: Definitive Edition - Lords of the West
+- **2021** - Age of Empires III: Definitive Edition - United States Civilization
+- **2021** - Age of Empires III: Definitive Edition - The African Royals
+- **2021** - Age of Empires II: Definitive Edition - Dawn of the Dukes
+- **2021** - Age of Empires IV
+- **2021** - Age of Empires III: Definitive Edition - Mexico Civilization
+- **2022** - Age of Empires II: Definitive Edition - Dynasties of India
+- **2022** - Age of Empires III: Definitive Edition - Knights of the Mediterranean
