@@ -822,17 +822,17 @@
 
 ### Fast Castle → Boom
 
-| | wood | food | gold | stone |
+| Villager / Action | Wood | Food | Gold | Stone |
 |:--|:--:|:--:|:--:|:--:|
-| +6 2 Houses → sheep → farms         | 0  | 6  | 0  | 0  |
-| +4 Lumber Camp → wood               | 4  | 6  | 0  | 0  |
-| +1 2 Lure Boar                      | 4  | 7  | 0  | 0  |
-| +5 2 Houses → Mill → Berries        | 4  | 12 | 0  | 0  |
-| +2 2 Farms                          | 4  | 14 | 0  | 0  |
-| +5 House → Lumber Camp → wood       | 9  | 14 | 0  | 0  |
-| +3 Mining Camp → Gold               | 9  | 15 | 3  | 0  |
+| 6 → 2 Houses → sheep → farms         | 0  | 6  | 0  | 0  |
+| 4 → Lumber Camp → wood               | 4  | 6  | 0  | 0  |
+| 1 → 2 Lure Boar                      | 4  | 7  | 0  | 0  |
+| 5 → 2 Houses → Mill → Berries        | 4  | 12 | 0  | 0  |
+| 2 → 2 Farms                          | 4  | 14 | 0  | 0  |
+| 5 → House → Lumber Camp → wood       | 9  | 14 | 0  | 0  |
+| 3 → Mining Camp → Gold               | 9  | 15 | 3  | 0  |
 | Feudal Age                          | 9  | 15 | 3  | 0  |
-| +3 1 House → wood                   | 10 | 17 | 3  | 0  |
+| 3 → 1 House → wood                   | 10 | 17 | 3  | 0  |
 | 1 from wood → Blacksmith → wood     | 10 | 19 | 3  | 0  |
 | 2 from wood → Market → wood         | 10 | 19 | 3  | 0  |
 | Double-Bit Axe + Horse Collar       | 10 | 21 | 3  | 0  |
