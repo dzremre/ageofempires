@@ -1,6 +1,6 @@
 # Age Of Empires
 
-[ageofempires.dev](https://ageofempires.dev) is a civilization and build order guide for **Age of Empires II: Definitive Edition** edition.
+[ageofempires.github.io](https://ageofempires.github.io) is a civilization and build order guide for **Age of Empires II: Definitive Edition** edition.
 
 <ins>Age of Empires II: Definitive Edition</ins> is a classic real-time strategy game that has been reimagined and revitalized for a new generation. With updated graphics, improved gameplay mechanics, and enhanced spectator modes, the game offers a fresh take.
 
