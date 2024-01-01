@@ -2,7 +2,7 @@
 
 [https://dzremre.github.io/ageofempires](https://dzremre.github.io/ageofempires/) is a civilization and build order guide for **Age of Empires II: Definitive Edition** edition.
 
-<ins>Age of Empires II: Definitive Edition</ins> is a classic real-time strategy game that has been reimagined and revitalized for a new generation. With updated graphics, improved gameplay mechanics, and enhanced spectator modes, the game offers a fresh take.
+<ins>Age of Empires II: Definitive Edition</ins> is a classic real-time strategy game that has been reimagined and revitalized for a new generation. With updated graphics, improved gameplay mechanics, and enhanced spectator modes, the game offers a fresh take. Lead mighty civilizations, forge epic alliances, and conquer the ages in this dynamic real-time strategy game!
 
 - [Civilizations](#civilizations)
 - [Release History](#release-history)
